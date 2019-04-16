@@ -1,0 +1,6 @@
+D:\Projects\OldCRM\CRM.classic\ClassicCRMCalendarEmailer\CRMCalendarEmailer\bin\CRMCalendarEmailer.dll.config
+D:\Projects\OldCRM\CRM.classic\ClassicCRMCalendarEmailer\CRMCalendarEmailer\bin\CRMCalendarEmailer.dll
+D:\Projects\OldCRM\CRM.classic\ClassicCRMCalendarEmailer\CRMCalendarEmailer\bin\CRMCalendarEmailer.pdb
+D:\Projects\OldCRM\CRM.classic\ClassicCRMCalendarEmailer\CRMCalendarEmailer\obj\Debug\CRMCalendarEmailer.csprojResolveAssemblyReference.cache
+D:\Projects\OldCRM\CRM.classic\ClassicCRMCalendarEmailer\CRMCalendarEmailer\obj\Debug\CRMCalendarEmailer.dll
+D:\Projects\OldCRM\CRM.classic\ClassicCRMCalendarEmailer\CRMCalendarEmailer\obj\Debug\CRMCalendarEmailer.pdb
